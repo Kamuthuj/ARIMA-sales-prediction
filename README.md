@@ -1,3 +1,4 @@
 # ARIMA time series forecasting.
 
-![arim](https://github.com/user-attachments/assets/0a5bbbca-a23b-4f05-96b0-943815c9ceaa)
+
+![time series forecast](https://github.com/user-attachments/assets/3c9c5d4a-e8a8-460e-88fd-63c4474ea6c6)
