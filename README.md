@@ -40,7 +40,7 @@ Aggregating sales data by month.
 These steps ensured the data was well-structured for time series analysis.
 
 # Exploratory Data Analysis (EDA)
-1. Visualizations
+1. Visualizations:
 - Monthly sales trends were visualized to identify patterns over time.
 2. Seasonal Decomposition
 - The data was decomposed into trend, seasonality, and residuals to better understand its components.
